@@ -1,4 +1,4 @@
-package com.abc.cursos.desenvolvimento;
+package com.desenvolvimento.mongodb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
