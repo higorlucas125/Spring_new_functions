@@ -8,4 +8,6 @@ public interface FuncionarioService {
 
     List<Funcionario> listAll();
 
+    List<String> listAllCityOfFuncionario();
+
 }
